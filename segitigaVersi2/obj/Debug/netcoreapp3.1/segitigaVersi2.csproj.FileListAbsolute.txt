@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Desktop\segitigaVersi2\bin\Debug\netcoreapp3.1\segitigaVersi2.exe
+C:\Users\Lenovo\Desktop\segitigaVersi2\bin\Debug\netcoreapp3.1\segitigaVersi2.deps.json
+C:\Users\Lenovo\Desktop\segitigaVersi2\bin\Debug\netcoreapp3.1\segitigaVersi2.runtimeconfig.json
+C:\Users\Lenovo\Desktop\segitigaVersi2\bin\Debug\netcoreapp3.1\segitigaVersi2.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\segitigaVersi2\bin\Debug\netcoreapp3.1\segitigaVersi2.dll
+C:\Users\Lenovo\Desktop\segitigaVersi2\bin\Debug\netcoreapp3.1\segitigaVersi2.pdb
+C:\Users\Lenovo\Desktop\segitigaVersi2\obj\Debug\netcoreapp3.1\segitigaVersi2.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\segitigaVersi2\obj\Debug\netcoreapp3.1\segitigaVersi2.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\segitigaVersi2\obj\Debug\netcoreapp3.1\segitigaVersi2.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\segitigaVersi2\obj\Debug\netcoreapp3.1\segitigaVersi2.dll
+C:\Users\Lenovo\Desktop\segitigaVersi2\obj\Debug\netcoreapp3.1\segitigaVersi2.pdb
